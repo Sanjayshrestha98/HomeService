@@ -1,5 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Sanjay Shrestha/StudioProjects/HandyMan/app/src/main/res/drawable/background_left.xml" value="0.2234375" />
+        <entry key="..\:/Users/Sanjay Shrestha/StudioProjects/HandyMan/app/src/main/res/drawable/background_right.xml" value="0.2234375" />
+        <entry key="..\:/Users/Sanjay Shrestha/StudioProjects/HandyMan/app/src/main/res/drawable/createnew.xml" value="0.2234375" />
+        <entry key="..\:/Users/Sanjay Shrestha/StudioProjects/HandyMan/app/src/main/res/drawable/createnew2.xml" value="0.2234375" />
+        <entry key="..\:/Users/Sanjay Shrestha/StudioProjects/HandyMan/app/src/main/res/drawable/ic_call_black_24dp.xml" value="0.2234375" />
+        <entry key="..\:/Users/Sanjay Shrestha/StudioProjects/HandyMan/app/src/main/res/drawable/ic_star_black_24dp.xml" value="0.2234375" />
+        <entry key="..\:/Users/Sanjay Shrestha/StudioProjects/HandyMan/app/src/main/res/drawable/loginbutton.xml" value="0.2234375" />
+        <entry key="..\:/Users/Sanjay Shrestha/StudioProjects/HandyMan/app/src/main/res/drawable/request.xml" value="0.2234375" />
+        <entry key="..\:/Users/Sanjay Shrestha/StudioProjects/HandyMan/app/src/main/res/drawable/theme_color.xml" value="0.2234375" />
+        <entry key="..\:/Users/Sanjay Shrestha/StudioProjects/HandyMan/app/src/main/res/layout/activity_asklocation.xml" value="0.33" />
+        <entry key="..\:/Users/Sanjay Shrestha/StudioProjects/HandyMan/app/src/main/res/layout/activity_change_location_sp.xml" value="0.2838541666666667" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
