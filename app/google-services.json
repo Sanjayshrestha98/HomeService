@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "283848460876",
+    "project_id": "homeservicenepal-bcdef",
+    "storage_bucket": "homeservicenepal-bcdef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283848460876:android:eeb56c94e573685bf542e9",
+        "android_client_info": {
+          "package_name": "com.example.locale_lite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283848460876-pm2095kvm781rmveglgnuvng2k1dls2t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxKjZKRsXyit13PosdU4nnrXyhL1JjtOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283848460876-pm2095kvm781rmveglgnuvng2k1dls2t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
